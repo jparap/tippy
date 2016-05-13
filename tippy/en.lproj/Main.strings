@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Bill"; ObjectID = "8zb-yb-izL"; */
+"8zb-yb-izL.text" = "Bill";
+
+/* Class = "UINavigationItem"; title = "Tip Calculator"; ObjectID = "Kb0-Ay-Ng4"; */
+"Kb0-Ay-Ng4.title" = "Tip Calculator";
+
+/* Class = "UILabel"; text = "Tip"; ObjectID = "LBz-AS-ED2"; */
+"LBz-AS-ED2.text" = "Tip";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "fx2-oL-qYn"; */
+"fx2-oL-qYn.text" = "$0.00";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "gnP-Ic-ZgT"; */
+"gnP-Ic-ZgT.text" = "Total";
+
+/* Class = "UISegmentedControl"; nCy-hO-lp8.segmentTitles[0] = "18%"; ObjectID = "nCy-hO-lp8"; */
+"nCy-hO-lp8.segmentTitles[0]" = "18%";
+
+/* Class = "UISegmentedControl"; nCy-hO-lp8.segmentTitles[1] = "20%"; ObjectID = "nCy-hO-lp8"; */
+"nCy-hO-lp8.segmentTitles[1]" = "20%";
+
+/* Class = "UISegmentedControl"; nCy-hO-lp8.segmentTitles[2] = "25%"; ObjectID = "nCy-hO-lp8"; */
+"nCy-hO-lp8.segmentTitles[2]" = "25%";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "saM-Tm-lrz"; */
+"saM-Tm-lrz.text" = "$0.00";
